@@ -3783,3 +3783,13 @@ input, select, textarea {
 			}
 
 		}
+/* My Images */
+.myDiv {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 30px;
+}
+.image2 {
+	width: 46%;
+
+}
