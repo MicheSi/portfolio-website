@@ -3784,6 +3784,10 @@ input, select, textarea {
 
 		}
 /* My Images */
+img.cactus {
+	width: 15%;
+	border-radius: 50%;
+}
 .myDiv {
 	display: flex;
 	justify-content: space-between;
